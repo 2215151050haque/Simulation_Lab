@@ -7,6 +7,7 @@
 **Section**: 7A <br/>
 
 
+### **Course Introduction**
 **Course Title**: Simulation and Modeling <br/>
 **Course Code**: CSE413 <br/>
 **Course Instructor**: Audity Ghosh
